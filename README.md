@@ -2,7 +2,7 @@
 
 # About Me
 
-![*This is me*](/Users/francescadicera/Documents/cfss/Picture_hw1.jpg)
+![*This is me*](Picture_hw1.jpg)
 
 ## Bio
 
