@@ -8,9 +8,7 @@
 
 *   **Name**: *Francesca Di Cera*
     
-*   **Year** 
-
-    * Class of 2021
+*   **Year**: Class of 2021
     
 *   **Location**
 
