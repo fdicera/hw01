@@ -8,7 +8,7 @@
 
 ### *Introduction*
 
-Hi! My name is Francesca. I am a rising fourth year student who is majoring in Economics and minoring in Health and Society. I am currently located in Missouri.
+My name is Francesca. I am a rising fourth year student who is majoring in Economics and minoring in Health and Society. I am currently located in Missouri.
 
 ### *Hobbies/Interests*
 
@@ -22,3 +22,7 @@ Hi! My name is Francesca. I am a rising fourth year student who is majoring in E
 *   **A song I like...**
 
     * [Super Trouper](https://www.youtube.com/watch?v=QTmEFtGeYqQ)
+    
+*   **A show I've watched recently...**
+    
+    * [Survivor](https://www.imdb.com/title/tt0239195/)
