@@ -6,27 +6,19 @@
 
 ## Bio
 
-*   **Name**: *Francesca Di Cera*
-    
-*   **Year**: Class of 2021
-    
-*   **Location**
+### *Introduction*
 
-    * St. Louis, MO
-    
-*   **Major**
+Hi! My name is Francesca. I am a rising fourth year student who is majoring in Economics and minoring in Health and Society. I am currently located in Missouri.
 
-    * Economics
+### *Hobbies/Interests*
 
-## Hobbies/Interests
+*   **In my free time I enjoy...**
 
-In my free time I enjoy...
+    * Cooking
+    * Soccer
+    * Piano
+    * Puzzles
 
-*   Cooking
-*   Soccer
-*   Piano
-*   Puzzles
+*   **A song I like...**
 
-A song I like...
-
-[Super Trouper](https://www.youtube.com/watch?v=QTmEFtGeYqQ)
+    * [Super Trouper](https://www.youtube.com/watch?v=QTmEFtGeYqQ)
