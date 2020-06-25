@@ -19,7 +19,7 @@ My name is Francesca, and I am a rising fourth year student who is majoring in E
     * *Doing Puzzles*
     * *Gardening*
 
-*   **A song I like (especially during the summer) is...**
+*   **A song I like is...**
 
     * [Super Trouper](https://www.youtube.com/watch?v=QTmEFtGeYqQ)
     
