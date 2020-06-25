@@ -8,7 +8,7 @@
 
 ### *Introduction*
 
-My name is Francesca, and I am a rising fourth year student who is majoring in Economics and minoring in Health and Society. I am currently located in Missouri. I am taking this class to learn how to use R and to be able to use it for future classes/research/projects.
+My name is Francesca, and I am a rising fourth year student who is majoring in Economics and minoring in Health and Society. I am currently located in Missouri. I am taking this class to learn how to use R and to be able to use it for future classes, research, and projects.
 
 ### *Hobbies/Interests*
 
